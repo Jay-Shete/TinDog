@@ -1,3 +1,5 @@
 # TinDog - Tinder for dogs
 
-A demo website built using HTML, CSS and Bootstrap.
+A responsive website built using HTML, CSS and Bootstrap.
+
+Click [here](https://jay-shete.github.io/TinDog/) to view.
